@@ -1,0 +1,74 @@
+.one{
+	width: 1080px;
+	height: 1920px;
+	background: #010101;
+}
+.up{
+	width: 100%;
+	height: 615px;
+	background: #010101;
+}
+.one .up1{
+	width:200px;
+	height: 220px;
+	
+	background: green;
+	font-size: 200px;
+	font-weight: 500;
+	color: rgb(255,255,255);
+	text-align:center;
+	line-height: 220px;
+	margin-bottom:20px;
+	float: right;
+}
+.up div{
+	maigin-left：400px;
+}
+.one .down{
+	width: 100%;
+	height: 1305px;
+	background:#010101 ;
+}
+.down .down1{
+	width: 220px;
+	height: 220px;
+	background: #a5a5a5;
+	float:left;
+	border-radius:50%;
+	margin-left: 40px;
+	text-align:center;
+	line-height:220px;
+	color:black;
+	font-size: 100px;
+}
+.down .down2{
+	width: 220px;
+	height: 220px;
+	background: #f09a37;
+	float:left;
+	border-radius:50%;
+	margin-left:40px;
+	text-align:center;
+	line-height:220px;
+	color：#fefefe;
+	font-size: 100px;
+}
+.down .down3{
+	width: 480px;
+	height: 220px;
+	border-radius: 110px;
+}
+.down div{
+	width: 220px;
+	height: 220px;
+	background: #333333;
+	float:left;
+	border-radius:50%;
+	margin-left: 40px;
+	text-align:center;
+	line-height:220px;
+	color: white;
+	font-size: 100px;
+	margin-top: 34.16px;
+	font-weight: 700;
+}
